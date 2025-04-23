@@ -69,6 +69,4 @@ This project consists of multiple components. The implementation code for key pr
 - **Apache Flink Jobs**: [https://github.com/vmchura/FlinkJobs](https://github.com/vmchura/FlinkJobs)
 - **Apache Spark Jobs**: [https://github.com/vmchura/SparkJobs](https://github.com/vmchura/SparkJobs)
 
----
 
-*This project was developed as part of the Big Data course*
