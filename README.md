@@ -62,6 +62,13 @@ This architecture addresses the 4Vs of Big Data:
 - **Veracity**: Automatic validations ensuring data quality and consistency
 - **Value**: Generating enriched, high-quality datasets ready for analysis and machine learning
 
+## 💻 Implementation Repositories
+
+This project consists of multiple components. The implementation code for key processing engines can be found in these repositories:
+
+- **Apache Flink Jobs**: [https://github.com/vmchura/FlinkJobs](https://github.com/vmchura/FlinkJobs)
+- **Apache Spark Jobs**: [https://github.com/vmchura/SparkJobs](https://github.com/vmchura/SparkJobs)
+
 ---
 
 *This project was developed as part of the Big Data course*
